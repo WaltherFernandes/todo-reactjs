@@ -1,6 +1,6 @@
-import { SyntheticEvent, useContext } from 'react';
-import { TodosContext } from '../contexts/TodosContext';
-import styles from '../styles/components/InputValues.module.css';
+import { SyntheticEvent, useContext } from "react";
+import { TodosContext } from "../contexts/TodosContext";
+import styles from "../styles/components/InputValues.module.css";
 
 export function InputValues() {
   const { changeValue, value, erase, submit } = useContext(TodosContext);

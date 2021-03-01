@@ -1,8 +1,7 @@
 import { GetServerSideProps } from "next";
-import { useContext } from "react";
 import { InputValues } from "../components/InputValues";
 import { ItemList } from "../components/ItemList";
-import { TodosContext, TodosProvider } from "../contexts/TodosContext";
+import { TodosProvider } from "../contexts/TodosContext";
 import styles from "../styles/pages/Home.module.css";
 
 interface Todo {
