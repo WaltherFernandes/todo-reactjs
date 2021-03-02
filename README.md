@@ -33,14 +33,6 @@
 </p>
 
 ![App Screenshot](https://i.imgur.com/PLZkwSJ.png)
-<p align="center">
-    <img alt="App screenshot" src="https://i.imgur.com/F1xMbXS.png">
-</p>
-<p align="center">
-  <a href="https://stimulates.vercel.app/" target="_blank">
-    <img alt="Demo on Vercel" src="https://i.imgur.com/yT2WyzM.png">
-  </a>
-</p>
 
 ## :fire: Technologies
 
